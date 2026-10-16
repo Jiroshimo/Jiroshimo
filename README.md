@@ -17,9 +17,6 @@
 <a href="https://www.instagram.com/sqkchz.cpp/">
   <img src="https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram&logoColor=white" />
 </a>
-<a href="https://buymeacoffee.com/jiroshimo">
-  <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-yellow?style=flat-square&logo=buymeacoffee&logoColor=black" />
-</a>
 
 ### 🧠 Currently Learning
 
