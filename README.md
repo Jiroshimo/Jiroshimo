@@ -7,7 +7,7 @@
 
 🛡️ Learning Cybersecurity, Networking & Vibe Coding
 
-🚀 Co-Founder of Potato Devs | Building LIKO
+🚀 Co-Founder of Potato Devs
 
 ### 🌐 Connect With Me
 
